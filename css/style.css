@@ -1,0 +1,133 @@
+.hero{
+    background-color: rgb(79,198,168);
+    height: 500px;
+}
+
+#iphone{
+    width: 300px;
+    width: 300px;
+}
+
+.title{
+    text-align: center;
+	position: absolute;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	margin: auto;
+    width: 500px;
+    height: 100px;
+    color: #ffffff
+}
+
+.top{
+    padding-top: 100px
+}
+.relative{
+	height: 300px;
+    position: relative
+}
+.large{
+    font-size: 80px
+}
+.about{
+    height:600px;
+    text-align: center;
+}
+.word{
+    font-size: 40px;
+    margin: 50px 0;
+}
+.message{
+    font-size: 20px;
+    margin-bottom: 30px
+}
+.advice{
+    height: 300px;
+    text-align: center
+}
+.voice1{
+    text-align: center;
+    font-size: 25px;
+    color: rgb(79,198,168);
+    margin: 30px;
+    line-height: 200%;
+}
+.lt-voice1{
+    background-color:  rgb(254,255,241)
+}
+.human{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%
+}
+.voice2{
+    margin: 0 auto;
+    display:table;
+    height: 150px
+}
+.voice2 p {
+    display:table-cell; /* 要素をテーブルのようにする */
+    text-align:center; /* インライン要素の中央揃え */
+    vertical-align:middle; /* 天地中央に揃える */
+}
+.bulk{
+    padding-top: 30px
+}
+.sh-message{
+    font-size: 30px;
+    padding: 30px 20px;
+    margin: 25px
+}
+.point {
+    height: 500px;
+    text-align: center;
+}
+.gray{
+    background-color: rgb(230,230,230)
+}
+.app{
+    height: 650px;
+    text-align: center;
+}
+.mid-message{
+    font-size: 30px;
+    padding: 30px 20px;
+}
+
+.movie{
+    height: 600px;
+    text-align: center;
+}
+#youtube{
+    text-align: center;
+	position: absolute;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	margin: auto;
+    width: 800px;
+    height: 450px;
+}
+.relative1{
+    position: relative;
+    height: 600px
+}
+.gray_word{
+    color: #777
+}
+.right{
+    margin-right: 40px
+}
+.footer{
+    height:100px;
+    background-color: rgb(79,198,168);
+}
+.center{
+    text-align: center
+}
+.dl-icon{
+    margin-top: 50px
+}
